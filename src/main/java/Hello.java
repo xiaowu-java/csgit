@@ -6,7 +6,7 @@ public class Hello {
         //测试提交
         //测试下拉
         //测试分支
-        //测试分 主 合并
+        //测试分 主 合 并
 
         System.out.println("哈哈哈");
     }
